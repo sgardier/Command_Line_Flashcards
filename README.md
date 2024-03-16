@@ -11,8 +11,8 @@ Flashcard command line tool with [Sebastian Leitner's algorithm](https://en.wiki
 ## Try it!
 
 ## Features
-The alrotihm use is the one developped by [Sebastian Leitner](https://en.wikipedia.org/wiki/Flashcard).<br>
-The functionnalities are :
+The algorithm used is the one developped by [Sebastian Leitner](https://en.wikipedia.org/wiki/Flashcard).<br>
+Features :
 - Adding cards to the box
 - Removing cards from the box
 - Review the cards of the day
