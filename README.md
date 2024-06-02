@@ -2,6 +2,10 @@
 ![Release](https://img.shields.io/badge/Release-v1.0-blueviolet?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="misc/title.png" alt="Study from terminal main title" style="width: 100%;"/>
+</div>
+
 Study your flash card from the terminal using [Sebastian Leitner's algorithm](https://en.wikipedia.org/wiki/Flashcard)!
 
 ## Summary
