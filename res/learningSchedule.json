@@ -1,0 +1,15 @@
+{
+  "leitnerBox": {
+    "box": [
+      {
+        "numLevel": 1,
+        "cards": []
+      },
+      {
+        "numLevel": 2,
+        "cards": []
+      }
+    ]
+  },
+  "currentDay": 1
+}
