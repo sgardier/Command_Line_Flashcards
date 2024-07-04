@@ -43,8 +43,8 @@ Features :
 - Store the "box" of cards for later revisions.
 
 ## Technical features
-- Publish - Subscribre architecture for the updates of the statistics.
-- Command architecture for the actions to be taken by the users.
+- Publish - Subscribre pattern for the updates of the statistics.
+- Command pattern for the actions to be taken by the users.
 - Test suite of ~80 tests using JUnit (standalone) and FakeClasses.
 - Efficient collections usage for fast execution and low memory footprint.
 
